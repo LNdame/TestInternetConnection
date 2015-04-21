@@ -1,0 +1,2 @@
+/Users/loicStephan/AndroidstudioProjects/TestInternetConnection/app/build/intermediates/classes/debug
+/Users/loicStephan/AndroidstudioProjects/TestInternetConnection/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c7b9e1c74f8d5765a9e734a48119f36874591afe.jar

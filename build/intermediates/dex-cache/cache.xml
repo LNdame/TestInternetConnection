@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/loicStephan/Documents/ADT/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/loicStephan/AndroidstudioProjects/TestInternetConnection/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c7b9e1c74f8d5765a9e734a48119f36874591afe.jar" />
+    </item>
+
+</items>
