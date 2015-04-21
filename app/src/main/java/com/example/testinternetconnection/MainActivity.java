@@ -35,6 +35,10 @@ public class MainActivity extends Activity {
 		});
 	}
 
+    /**
+     * this is for test purposes.
+     * */
+
 	protected boolean isInternetOn() {
 
 		ConnectivityManager connec = (ConnectivityManager)getSystemService(getBaseContext().CONNECTIVITY_SERVICE);
